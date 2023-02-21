@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SPONKICODER
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning HTML,CSS AND JAVASCRIPT.
+- 🌱 I’m currently learning PYTHON and SQL.
 - 💞️ I’m looking to collaborate on SOME SMALL BEGINNER PROJECTS.
 - 📫 How to reach me TONI.ELIZA.JU@GMAIL.COM
 
